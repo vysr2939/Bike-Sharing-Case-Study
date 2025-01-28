@@ -1,6 +1,6 @@
 # Linear Regression on Bike Share 
 
-> Linear Regression model applied using RFE and manually removed variables
+> Linear Regression model applied using RFE and manually adjusted variables
 
 ## Table of Contents
 
