@@ -9,13 +9,10 @@
   - [General Information](#general-information)
     - [Business Problem](#business-problem)
     - [Goal of the Project](#goal-of-the-project)
-    - [Dataset information](#dataset-information)
   - [Conclusions(Business Recomendation)](#conclusionsbusiness-recomendation)
   - [Result](#result)
   - [Technologies Used](#technologies-used)
-  - [Acknowledgements](#acknowledgements)
-  - [Contact](#contact)
-  - [License](#license)
+
 
 <!-- You can include any other section that is pertinent to your problem -->
 
